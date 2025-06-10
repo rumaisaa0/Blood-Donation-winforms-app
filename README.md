@@ -49,7 +49,8 @@ opportunities, and optimize blood inventory management strategies.
 can be extended to include a mobile application. This mobile app can allow donors to 
 schedule appointments, receive notifications about blood donation drives, and access 
 their donation history.  
-**• Integration with Healthcare Systems: **Integrating HemoConnect with electronic health 
+
+**• Integration with Healthcare Systems:** Integrating HemoConnect with electronic health 
 record (EHR) systems used in healthcare facilities can streamline the transfusion process. 
 By automatically syncing patient information and transfusion requests, HemoConnect can 
 ensure seamless coordination between blood banks and healthcare providers. 
@@ -72,47 +73,57 @@ awareness about the importance of blood donation.
 By exploring these future scope opportunities, HemoConnect can evolve into a comprehensive 
 solution that not only meets the immediate needs of blood bank management but also 
 contributes to advancements in blood donation practices and healthcare delivery. 
+
 # Basic Features  
 The basic features of this include: 
+
 **• User Authentication and Access Control:** Implement secure login 
 mechanisms to authenticate staff members accessing the system. Role-based access 
 control ensures that users have appropriate permissions and front-end views based on 
 their roles (e.g., administrator, receptionist, technician). 
+
 **• Donor Management:** 
 o Maintain a comprehensive database of donors including personal information, 
 contact details, blood type, medical history, and donation records. 
 o Allow staff to register new donors, update existing donor information, and track 
 donation history. 
+
 **• Inventory Management:** 
 o Keep track of blood inventory including blood type, quantity, expiration dates, and 
 storage locations. 
 o Automatically update inventory levels upon blood donations or transfusions. 
 o Set alerts for low inventory levels and approaching expiration dates to facilitate 
 timely replenishment and disposal. 
+
 **• Blood Type Matching:** 
 o Provide functionality to match donor blood types with recipient blood types to 
 ensure compatibility during transfusions. 
 o Display alerts for incompatible matches and provide alternative options. 
+
 **• Blood Donation Scheduling:**
 o Enable donors to schedule appointments for blood donation through the 
 application. 
 o Send reminders to donors about upcoming appointments and provide options for 
 rescheduling or canceling appointments. 
+
 **• Blood Transfusion Requests:** 
 o Allow healthcare professionals to submit requests for blood transfusions 
 specifying patient details, required blood type, and urgency. 
 o Prioritize and process transfusion requests efficiently based on urgency and 
 availability of compatible blood units. 
+
 **• Reporting and Analytics:** 
 o Generate reports on blood inventory levels, donation trends, transfusion 
 activities, and donor demographics. 
 o Provide analytical insights to identify patterns, optimize inventory management, 
 and plan donation campaigns effectively. 
+
 **• Communication and Notifications:** 
 o Facilitate communication between blood bank staff, donors, and healthcare 
 facilities through in-app messaging or notifications. 
 o Send automated notifications to donors regarding blood donation campaigns, 
 urgent blood needs, and appreciation messages.
+
 **• User-Friendly Interface:** 
 o Design an intuitive and user-friendly interface with easy navigation and 
 streamlined workflows to enhance user experience for staff and donors. 
